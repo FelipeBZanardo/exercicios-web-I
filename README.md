@@ -1,6 +1,13 @@
 # Exercícios Web I - Servlets
 Exercícios Web I - Santander Coders 2022
 
+Todos os exercícios foram  resolvidos utilizando:
+  - Servidor: Tomcat versão 10;
+  - Template: Web application;
+  - Build system: Maven;
+  - Especificações: Jakarta EE 9.1
+  - Dependências: Servlet
+
 ## Exercício 1 - IMC:
 Crie um servlet para calculo de IMC, que deve receber os parametros peso e altura. o método que será responsável em receber uma requisição via HTTP deve ser o doGet().
 
